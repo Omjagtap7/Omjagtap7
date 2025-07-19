@@ -19,4 +19,4 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/om-jagtap-541aa6224)
