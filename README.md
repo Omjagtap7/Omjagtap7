@@ -12,6 +12,9 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 <!-- Add more badges or icons -->
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Omjagtap7)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
 
