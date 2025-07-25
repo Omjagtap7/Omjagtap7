@@ -15,7 +15,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Omjagtap7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?Omjagtap7=your-Omjagtap7&show_icons=true&hide_title=true)
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/om-jagtap-541aa6224)
