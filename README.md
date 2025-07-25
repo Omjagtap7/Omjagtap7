@@ -1,12 +1,11 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Om Jagtap
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Tech/Tool]
-- 💬 Ask me about [Topics]
-- 📫 How to reach me: [Email/LinkedIn]
-- ⚡ Fun fact: [Something interesting about you]
-
+- 🔭 I’m currently working on Bite Meter(Food Rating)
+- 🌱 I’m currently learning Full Stack Technology
+- 💬 Ask me about As you want to know about me
+- 📫 How to reach me: https://www.linkedin.com/in/om-jagtap-541aa6224
+- ⚡ Fun fact: I hit the gym six days a week, following a full-body routine with a goal to become my fittest self—no shortcuts, just consistency.
 ## 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
